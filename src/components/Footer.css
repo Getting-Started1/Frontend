@@ -1,0 +1,15 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding-top: 1em;
+    margin-top: 1rem;
+    width: 100%;
+}
+.footer_list{
+    list-style: none;
+    padding: 0.04em 0em;
+}
+
+

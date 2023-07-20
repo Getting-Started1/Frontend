@@ -1,0 +1,104 @@
+/* *{
+  background-color: orange;
+  color: white ;
+     
+   
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+.temphumid{
+  display: flex;
+  padding-left: 25rem;
+}
+.temphumid h2{
+  color: blue;
+  display: block;
+  
+  
+}
+
+.count{
+  background-color: black;
+    
+      /* background:-moz-linear-gradient(90deg, rgba(0, 255, 235, 1) 0%, rgba(7, 58, 187, 1) 100%); 
+
+      
+      background:-webkit-linear-gradient(90deg, rgba(0, 255, 235, 1) 0%, rgba(7, 58, 187, 1) 100%);
+  
+
+      background:-o-linear-gradient(90deg, rgba(0, 255, 235, 1) 0%, rgba(7, 58, 187, 1) 100%);
+  
+      
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#073ABB', endColorstr='#00FFEB', GradientType=0 );
+  
+      
+      background:-ms-linear-gradient(90deg, rgba(0, 255, 235, 1) 0%, rgba(7, 58, 187, 1) 100%);
+  
+      
+      background:linear-gradient(90deg, rgba(0, 255, 235, 1) 0%, rgba(7, 58, 187, 1) 100%); */
+      padding: 2rem;
+}
+.count_date{
+  font-weight: 10;
+  font-size: x-large;
+  padding-left: 4em;
+}
+
+.title h1{
+  color: white;
+  text-align: center;
+  padding-bottom: 5vh;
+  
+}
+.output{
+    
+      background:-moz-linear-gradient(90deg, rgba(0, 255, 235, 1) 0%, rgba(7, 58, 187, 1) 100%); 
+
+      
+      background:-webkit-linear-gradient(90deg, rgba(0, 255, 235, 1) 0%, rgba(7, 58, 187, 1) 100%);
+  
+    
+      background:-o-linear-gradient(90deg, rgba(0, 255, 235, 1) 0%, rgba(7, 58, 187, 1) 100%);
+
+    
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#073ABB', endColorstr='#00FFEB', GradientType=0 );
+  
+    
+      background:-ms-linear-gradient(90deg, rgba(0, 255, 235, 1) 0%, rgba(7, 58, 187, 1) 100%);
+  
+      
+      background:linear-gradient(90deg, rgba(0, 255, 235, 1) 0%, rgba(7, 58, 187, 1) 100%);
+      height: 10vh;
+      width: fit-content;
+      align-items: center;
+      
+      
+}
+.buttons_twice {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 25vh;
+  padding-right: 15vh;
+  
+}
+
+.container-fluid{
+  padding-left: 8rem;
+}
+.card{ 
+  margin-left: 15vh;
+  margin-right: 15vh;
+  margin-bottom: 2vh;
+}
+
